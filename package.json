@@ -1,6 +1,6 @@
 {
   "name": "create-stackx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool to initialize full-stack projects with React and Node.js",
   "main": "cli.js",
   "scripts": {
