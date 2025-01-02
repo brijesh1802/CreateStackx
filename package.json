@@ -1,0 +1,29 @@
+{
+  "name": "create-stackx",
+  "version": "1.0.1",
+  "description": "A CLI tool to initialize full-stack projects with React and Node.js",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "cli",
+    "full-stack",
+    "react",
+    "node",
+    "vite"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bin": {
+    "create-stackx": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.0.0",
+    "inquirer": "^8.2.4",
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7",
+    "child_process": "^1.0.2"
+  }
+}
